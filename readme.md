@@ -19,7 +19,7 @@ embedded_example_file: "examples/Neopixel_minimal/Neopixel_minimal.ino"
 
 # LED-Streifen
 
-![LED-Streifen](65_led-streifen.jpg)
+![LED-Streifen](./65_led-streifen.jpg)
 
 ## Beschreibung
 Der LED-Streifen kann Lichteffekte und -animationen erzeugen oder kommt auch einfach zur Beleuchtung zum Einsatz. Er lässt sich dabei beliebig zuschneiden und wieder zusammenlöten. Weiterhin kann jede einzelne LED in Farbe und Helligkeit individuell gesteuert werden. Dadurch ist es möglich, komplexe Lichteffekte zu realisieren.
