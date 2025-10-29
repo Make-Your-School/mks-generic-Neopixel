@@ -13,6 +13,9 @@ clone_url: "https://github.com/Make-Your-School/mks-generic-Neopixel.git"
 repo_prefix: "mks"
 repo_part: "Neopixel"
 embedded_example_file: "examples/Neopixel_minimal/Neopixel_minimal.ino"
+title: 'LED-Streifen'
+status: 'active'
+difficulty: 'advanced'
 ---
 
 
